@@ -10,11 +10,6 @@
 ![Verilog](https://img.shields.io/badge/verilog-%23F7DF1E.svg?style=plastic&logoColor=black)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=plastic&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VanThienPhuc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VanThienPhuc&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VanThienPhuc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VanThienPhuc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
